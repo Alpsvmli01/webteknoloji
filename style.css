@@ -1,0 +1,81 @@
+.navbar 
+{
+	opacity: 0.8;
+	border-bottom: 1px solid #fff;
+}
+
+.nav-item:hover {
+	color: blue;
+}
+
+.jumbotron 
+{
+	padding-top: 100px;
+}
+
+.fa-ellipsis-v
+{
+	color: #fff;
+}
+
+.container.a
+{
+	color: #fff;
+}
+
+main
+{
+	font-family: 'Open Sans', sans-serif;
+}
+
+main img
+{
+	width: 100%;
+	height: auto;	
+}
+
+main p i
+{
+	font-size: 0.8rem;
+}
+
+.card img 
+{
+	height: 30rem;
+	width: auto;
+}
+
+.aksaray-jumbotron
+{
+	background-image: url(https://ayder.com.tr/uploads/p/o/c07lFY6JGURD.jpg);
+	background-size: cover;
+	background-position: 60% 50%;
+}
+
+.mirasimiz-jumbotron
+{
+	background-image: url(https://www.haberaksaray.com/wp-content/uploads/2021/03/aksaray-ulu-cami.jpg);
+	background-size: cover;
+	background-position: 90% 10%;
+}
+
+.ıhlara-jumbotron
+{
+	background-image: url(https://muze.gov.tr/s3/SectionPicture/SP_0d1528e9-e034-4e32-86a4-76c589fa8a2d.jpg);
+	background-size: cover;
+	background-position: 10% 70%;
+}
+
+.sultanhan-jumbotron
+{
+	background-image: url(https://www.trthaber.com/resimler/1130000/1130810.jpg);
+	background-size: cover;
+	background-position: 30% 50%;
+}
+
+.hasandag-jumbotron
+{
+	background-image: url(https://im.haberturk.com/2021/11/18/ver1637243112/3257489_810x458.jpg);
+	background-size: cover;
+	background-position: 10% 70%;
+}
